@@ -1,0 +1,8 @@
+com\example\ms_catalogo\controller\CategoriaController.class
+com\example\ms_catalogo\repository\CategoriaRepository.class
+com\example\ms_catalogo\config\OpenApiConfig.class
+com\example\ms_catalogo\service\impl\CategoriaSeriviceImpl.class
+com\example\ms_catalogo\entity\Categoria.class
+com\example\ms_catalogo\MsCatalogoApplication.class
+com\example\ms_catalogo\util\CategoriaSeeder.class
+com\example\ms_catalogo\service\CategoriaService.class
